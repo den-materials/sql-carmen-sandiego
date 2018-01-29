@@ -5,6 +5,8 @@ Adapted By: Zeb Girouard
 Market: DEN
 -->
 
+<!-- Next time, I should explicitly mention limit, where/like and demo the first query together -->
+
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 <!--Actually 11:35 -->
